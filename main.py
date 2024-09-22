@@ -1,3 +1,6 @@
 import streamlit as st
+import time
 
-st.write("Example Codes")
+st.write("World!")
+time.sleep(5)
+st.write("Goodbye") 
